@@ -1,4 +1,9 @@
-Hi 👋 My name is KIMMY ======================  Computer science student at KMUTNB ----------------------------------  * 🌍  I'm based in Bangkok,thailand * ✉️  You can contact me at [knpitcha.r@gmail.com](mailto:knpitcha.r@gmail.com)
+Hi 👋 My name is KIMMY ======================  
+
+Computer science student at KMUTNB ----------------------------------  
+
+* 🌍  I'm based in Bangkok,thailand 
+* ✉️  You can contact me at [knpitcha.r@gmail.com](mailto:knpitcha.r@gmail.com)
 
 ### Skills  
 
