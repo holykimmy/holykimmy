@@ -20,5 +20,5 @@ Computer science student at KMUTNB
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/holykimmy"><img src="https://github-readme-stats.vercel.app/api?username=holykimmy&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="holykimmy's GitHub stats" /></a>
+<a href="http://www.github.com/holykimmy"><img src="https://github-readme-stats.vercel.app/api?username=holykimmy&show_icons=true&hide=&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="holykimmy's GitHub stats" /></a>
 <a href="https://github.com/holykimmy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holykimmy&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
